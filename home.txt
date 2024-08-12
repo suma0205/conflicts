@@ -1,1 +1,3 @@
+logout
 code for logout feature
+code for home page
